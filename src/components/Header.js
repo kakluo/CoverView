@@ -9,7 +9,7 @@ const Header = () => {
 		<div className="bg-white text-xl md:px-2 flex border-dashed border-b-2 border-gray-100 p-2">
 			<Link to="/" className="flex items-center">
 				<img src={logo} alt="logo" className="w-8 h-8 mx-4" />
-				<h1 className="font-semibold">清羽飞扬の封面生成</h1>
+				<h1 className="font-semibold">东方月初の封面生成</h1>
 			</Link>
 
 			<div className="ml-auto md:mr-4 flex items-center">
